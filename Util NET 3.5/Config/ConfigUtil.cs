@@ -1,6 +1,6 @@
 ﻿// ****************************************
 // FileName:ConfigUtil.cs
-// Description:
+// Description:配置文件工具类
 // Tables:
 // Author:Gavin
 // Create Date:2015/3/5 15:48:58

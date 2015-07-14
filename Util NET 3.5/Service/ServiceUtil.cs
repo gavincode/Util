@@ -1,6 +1,6 @@
 ﻿// ****************************************
 // FileName:ServiceInstallBLL.cs
-// Description:
+// Description:服务操作帮助类
 // Tables:
 // Author:Gavin
 // Create Date:2015/1/15 16:14:54
@@ -161,7 +161,7 @@ namespace Util.Service
                     }
                 }
             }
-            catch (Exception) { }
+            catch (Exception) { throw; }
 
             return String.Empty;
         }

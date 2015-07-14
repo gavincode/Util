@@ -1,6 +1,6 @@
 ﻿// ****************************************
 // FileName:CodeTimer.cs
-// Description:
+// Description:代码运行时间测试类
 // Tables:
 // Author:Gavin
 // Create Date:2015/3/26 11:29:11

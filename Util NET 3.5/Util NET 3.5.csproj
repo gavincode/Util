@@ -42,7 +42,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Computer\ComputerInfo.cs" />
     <Compile Include="Convert\ConvertUtil.cs" />
     <Compile Include="Extension\IO\IOExtension.cs" />
     <Compile Include="Code\CodeTimer.cs" />
