@@ -45,6 +45,7 @@
     <Compile Include="Convert\ConvertUtil.cs" />
     <Compile Include="Extension\IO\IOExtension.cs" />
     <Compile Include="Code\CodeTimer.cs" />
+    <Compile Include="Regedit\RegeditHelper.cs" />
     <Compile Include="Service\ServiceUtil.cs" />
     <Compile Include="Log\LogType.cs" />
     <Compile Include="Log\LogUtil.cs" />
